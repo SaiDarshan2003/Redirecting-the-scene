@@ -68,11 +68,11 @@ public class CubeProg : MonoBehaviour
 ```
 ## Output:
 #### Scene 1:
-![output](withball.png) 
+![output](s2.png) 
 #### After the Ball Hit the cube:
-![output](ballhit.png)
+![output](s1.png)
 #### Redirected scene 2:
-![output](redirected.png)
+![output](s3.png)
 
 ## Result:
 The above C# coding is successfully redirecting the scene in the unity engine.
